@@ -1,0 +1,9 @@
+## Interface: 6010999
+## Title: Oro_UI_Vanilla
+## Version: 1.12.1
+## Author: jeremymeile@gmail.com
+## SavedVariables: globalSettings
+## SavedVariablesPerCharacter: characterSettings
+
+Oro_UI_Vanilla.xml
+Oro_UI_Vanilla.lua
